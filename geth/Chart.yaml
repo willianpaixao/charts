@@ -1,0 +1,6 @@
+apiVersion: v2
+name: geth
+description: A Helm chart for Go Ethereum
+type: application
+version: 0.1.0
+appVersion: "v1.10.25"
