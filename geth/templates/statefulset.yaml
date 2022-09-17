@@ -48,7 +48,7 @@ spec:
           imagePullPolicy: {{ .Values.image.pullPolicy }}
           ports:
             - name: http
-              containerPort: 8545
+              containerPort: 8551
               protocol: TCP
             - name: prometheus
               containerPort: 6060

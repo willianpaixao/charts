@@ -1,6 +1,15 @@
 apiVersion: v2
 name: geth
+version: 0.1.0
 description: A Helm chart for Go Ethereum
 type: application
-version: 0.1.0
+keywords:
+  - ethereum
+  - geth
+sources:
+  - https://github.com/willianpaixao/charts
+maintainers:
+  - name: Willian Paixao
+    email: willian@ufpa.br
+icon: https://geth.ethereum.org/static/images/mascot.png
 appVersion: "v1.10.25"
