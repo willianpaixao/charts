@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  geth:
+  - apiVersion: v2
+    appVersion: v1.10.25
+    created: "2022-09-20T16:59:21.913916419+02:00"
+    description: A Helm chart for Go Ethereum
+    digest: 3a2b8cfb4d8c315f5cadfa9ec37764d45859386fde1a2f08660c18934a58cec1
+    icon: https://geth.ethereum.org/static/images/mascot.png
+    keywords:
+    - ethereum
+    - geth
+    maintainers:
+    - email: willian@ufpa.br
+      name: Willian Paixao
+    name: geth
+    sources:
+    - https://github.com/willianpaixao/charts
+    type: application
+    urls:
+    - https://github.com/willianpaixao/charts/releases/download/geth-0.1.0/geth-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-20T16:59:21.913923243+02:00"
